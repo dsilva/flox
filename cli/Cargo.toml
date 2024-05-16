@@ -1,5 +1,5 @@
 [workspace]
-members = ["flox", "flox-rust-sdk", "catalog-api-v1"]
+members = ["flox", "flox-rust-sdk", "catalog-api-v1", "gcs-substituter"]
 default-members = ["flox"]
 
 resolver = "2"
